@@ -38,7 +38,7 @@
     "@types/styled-components": "^4.4.0",
     "babel-eslint": "^10.0.3",
     "cross-env": "^5.1.4",
-    "eslint": "^6.5.1",
+    "eslint": "^9.0.0",
     "eslint-config-react-app": "^5.0.2",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
